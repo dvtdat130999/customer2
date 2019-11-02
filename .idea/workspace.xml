@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58670eb4-c238-41ea-ad52-2014a74b4a3d" name="Default Changelist" comment="" />
+    <list default="true" id="091d79dd-da25-4142-967b-374324b09fce" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1Swpa5FAImnImkxPLCCPjCFmJaY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1T2hE87ziP9gEt4X0D3BSTLfswA" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.13.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Bai_hoc\Nam_3\HK1\PTUDW\express\test\routes" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Bai_hoc\Nam_3\HK1\PTUDW\express\test\views\products" />
-      <recent name="F:\Bai_hoc\Nam_3\HK1\PTUDW\express\test\views" />
+      <recent name="F:\Bai_hoc\Nam_3\HK1\PTUDW\customer\public" />
+      <recent name="F:\Bai_hoc\Nam_3\HK1\PTUDW\customer\views" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -47,38 +39,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="58670eb4-c238-41ea-ad52-2014a74b4a3d" name="Default Changelist" comment="" />
-      <created>1572484573691</created>
+      <changelist id="091d79dd-da25-4142-967b-374324b09fce" name="Default Changelist" comment="" />
+      <created>1572663982526</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572484573691</updated>
-      <workItem from="1572484577023" duration="2594000" />
-      <workItem from="1572488385478" duration="6678000" />
-      <workItem from="1572505680258" duration="3894000" />
-      <workItem from="1572515281007" duration="3432000" />
-      <workItem from="1572524018902" duration="7816000" />
-      <workItem from="1572532703635" duration="323000" />
-      <workItem from="1572534080769" duration="4170000" />
-      <workItem from="1572616615359" duration="1991000" />
-      <workItem from="1572621130038" duration="614000" />
-      <workItem from="1572656667281" duration="1918000" />
+      <updated>1572663982526</updated>
+      <workItem from="1572663985518" duration="137000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

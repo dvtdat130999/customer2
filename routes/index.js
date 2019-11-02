@@ -5,8 +5,10 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
-
-
+/* GET product list page. */
+router.get('/products', function(req, res, next) {
+  res.render('products/list', { title: 'Express' });
+});
 /* get login page*/
 router.get('/login', function(req, res, next) {
   res.render('login', { title: 'Express' });
